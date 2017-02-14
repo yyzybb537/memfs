@@ -1,0 +1,3 @@
+#!/bin/sh
+
+g++ main.cpp -std=c++11 -lfuse3 -g -o memfs
